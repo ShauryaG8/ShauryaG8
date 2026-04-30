@@ -55,22 +55,26 @@ Final-year B.Tech CS Engineering student at Manipal University Jaipur with hands
 
 ### Student Management System
 `Java` `Spring Boot` `React` `MySQL` `Agile` — *Jun 2025*
+
 • Co-developed a full-stack web application using Java, Spring Boot, React, and MySQL. Implemented REST APIs, OOP-based modular architecture, and validated workflows with sample datasets.
 • Managed development end-to-end: defined milestones, coordinated frontend/backend workstreams, and maintained documentation and version control in GitHub; applying Agile methodology throughout.
 
 ### GitHub Profile Analyser
 `TypeScript` `REST API` — *Jul 2025*
+
 • Built a console-based tool that fetches GitHub user details (public repositories, followers, profile stats) using GitHub REST API.
 • Implemented data retrieval with TypeScript, handled JSON parsing, and displayed results in a user-friendly format.
 
 ### Internship Delivery Tracker
 `Confluence` `Jira` `Excel` — *May 2025*
+
 • Built a personal PMO dashboard during the Global IT Geeks internship to track sprint delivery metrics.
 • Consolidated sprint velocity, open defect counts, and pipeline health across three sprints into a structured weekly status dashboard (Confluence, Jira, Excel).
 • Designed an issue log for blockers and resolutions used in weekly stakeholder status summaries.
 
 ### IoT-Enabled Smart Helmet for Real-Time Environment Monitoring
 `IoT` `Arduino` `NodeMCU` `ThingSpeak` — *Apr 2025*
+
 Designed and prototyped a smart safety helmet integrated with IoT capabilities to enhance workplace safety for construction workers. The helmet continuously monitors hazardous environmental conditions using temperature, humidity, MQ7 (CO gas), and MQ35 (ammonia gas) sensors, while an IR sensor detects nearby obstacles. Data is processed via Arduino and NodeMCU and transmitted wirelessly to ThingSpeak IoT platform, enabling remote monitoring of air quality and environmental metrics in real time.
 Key features include:
 • Real-time alerts via a built-in display for immediate hazard warnings.
